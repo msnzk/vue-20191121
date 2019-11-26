@@ -1,0 +1,237 @@
+[
+  {
+    "category": "",
+    "project": "はちみつ青汁",
+    "label": "2,070P / animation版",
+    "items":[
+      {
+        "size": "PCワイドメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/wmega_pc-ani.png"
+      },
+      {
+        "size": "PCワイドメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/wmega_pc-bg.png"
+      },
+      {
+        "size": "SPメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/mega_sp-ani.png"
+      },
+      {
+        "size": "SPメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/mega_sp-bg.png"
+      },
+      {
+        "size": "ハーフバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/banner_half.png"
+      },
+      {
+        "size": "PCワイドメガハーフバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/wmega_pc_half.png"
+      },
+      {
+        "size": "ミドルダブルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/banner_double.png"
+      },
+      {
+        "size": "メインバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/hachimitsuaojiru/2070p/main.png"
+      }
+    ]
+  },
+  {
+    "category": "ショッピングバナー",
+    "project": "ファッションサイト特集",
+    "label": "",
+    "items": [
+      {
+        "size": "PCメインバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/shopping/fashion_site/shop_pc.png"
+      },
+      {
+        "size": "SPメインバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/shopping/fashion_site/shop_sp.png"
+      },
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/shopping/fashion_site/banner.png"
+      }
+    ]
+  },
+  {
+    "category": "",
+    "project": "PARCOカード",
+    "label": "5,000P / animation版",
+    "items": [
+      {
+        "size": "PCワイドメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/5000p/wmega_pc-ani.png"
+      },
+      {
+        "size": "PCワイドメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/5000p/wmega_pc-bg.png"
+      },
+      {
+        "size": "SPメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/5000p/mega_sp-ani.png"
+      },
+      {
+        "size": "SPメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/5000p/mega_sp-bg.png"
+      }
+    ]
+  },
+  {
+    "category": "",
+    "project": "PARCOカード",
+    "label": "6,000P / animation版",
+    "items":[
+      {
+        "size": "PCワイドメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/wmega_pc-ani.png"
+      },
+      {
+        "size": "PCワイドメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/wmega_pc-bg.png"
+      },
+      {
+        "size": "SPメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/mega_sp-ani.png"
+      },
+      {
+        "size": "SPメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/mega_sp-bg.png"
+      },
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/banner.png"
+      }
+    ]
+  },
+
+  {
+    "category": "",
+    "project": "PARCOカード",
+    "label": "6,000P / スクラッチなし / animation版",
+    "items": [
+      {
+        "size": "PCワイドメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/wmega_pc-ani4.png"
+      },
+      {
+        "size": "PCワイドメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/wmega_pc-bg.png"
+      },
+      {
+        "size": "SPメガバナーanime",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/mega_sp-ani1.png"
+      },
+      {
+        "size": "SPメガバナーbg",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/mega_sp-bg.png"
+      },
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/parco/6000p/banner.png"
+      }
+    ]
+  },
+  {
+    "category": "キャンペーンバナー",
+    "project": "WAON",
+    "label": "10％増量キャンペーン",
+    "items": [
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/cashback/waon/weight10/banner.png"
+      }
+    ]
+  },
+  {
+    "category": "",
+    "project": "初回交換キャンペーン",
+    "label": "",
+    "items": [
+      {
+        "size": "キャンペーンバナー",
+        "url": "https://img.moppy.jp/pub/global/pc/cashback/first_press_campaign.png"
+      }
+    ]
+  },
+  {
+    "category": "",
+    "project": "LINE ポイント交換手数料無料キャンペーン",
+    "label": "",
+    "items": [
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/cashback/line/first_free/banner.png"
+      },
+      {
+        "size": "キャンペーンビッグバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/cashback/line/first_free/campaign_big.png"
+      }
+    ]
+  },
+  {
+    "category": "",
+    "project": "POINT WALLET VISA PREPAID",
+    "label": "新規発行で300Pキャンペーン",
+    "items": [
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/cashback/pointwallet/entry_300p/banner.png"
+      },
+      {
+        "size": "キャンペーンビッグバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/cashback/pointwallet/entry_300p/campaign_big.png"
+      }
+    ]
+  },
+
+  {
+    "category": "ショッピングバナー",
+    "project": "旅行特集",
+    "label": "",
+    "items": [
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/campaign/special/trip/banner.png"
+      },
+      {
+        "size": "アイコンバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/campaign/special/trip/icon.png"
+      }
+    ]
+
+  },
+  {
+    "category": "ショッピングバナー",
+    "project": "旅行特集",
+    "label": "旅行特集(冬)",
+    "items": [
+      {
+        "size": "メインバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/shopping/trip_winter/main.png"
+      },
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/shopping/trip_winter/banner.png"
+      }
+    ]
+  },
+  {
+    "category": "ショッピングバナー",
+    "project": "旅行特集",
+    "label": "旅行特集(夏)",
+    "items": [
+      {
+        "size": "メインバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/shopping/trip_summer/shop.png"
+      },
+      {
+        "size": "ミドルバナー",
+        "url": "https://img.moppy.jp/pub/global/banners/shopping/trip_summer/banner.png"
+      }
+    ]
+  }
+]
